@@ -11,7 +11,7 @@ This Project covers a walkthrough on how to create a QR Code with Python with us
 
 - <b>Python</b>
 - <b>VS Code</b>
-- <b>Windows COmmand Prompt</b>
+- <b>Windows Command Prompt</b>
 
 <h2>Environments Used </h2>
 
@@ -27,6 +27,11 @@ Installing Python pyqrcode library: <br/>
 <p align="center">
 Installing Python pypng library: <br/>
 <img src="https://imgur.com/Su4donL.png" height="80%" width="80%" alt="Installing python pypng library"/>
+<br />
+
+<p align="center">
+Finished Code: <br/>
+<img src="https://imgur.com/a/H5ueGwP" height="80%" width="80%" alt="Finished Code"/>
 <br />
 
 <br />
