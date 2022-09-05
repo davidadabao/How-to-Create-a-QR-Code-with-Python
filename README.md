@@ -30,8 +30,8 @@ Installing Python pypng library: <br/>
 <br />
 
 <p align="center">
-Finished Code: <br/>
-<img src="https://imgur.com/a/H5ueGwP" height="80%" width="80%" alt="Finished Code"/>
+Finished Code:<br/>
+<img src="https://imgur.com/u0AF0lU.png" height="80%" width="80%" alt="Finished Code"/>
 <br />
 
 <br />
