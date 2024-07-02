@@ -2,7 +2,7 @@
 
  ### Video Demonstration
 
-https://github.com/davidadabao/How-to-Create-a-QR-Code-with-Python/assets/96911098/00f17bda-6d44-490c-98e0-fc6a776d9746
+[![IMAGE ALT TEXT HERE](https://camo.githubusercontent.com/6204b7d3dcde437a68e95d6dab8cd9fea910d08a7acb6b9e6da61021105ea94b/68747470733a2f2f696d6775722e636f6d2f75304146306c552e706e67)](https://youtu.be/PgvMNqGQ36k)
 
 <h2>Description</h2>
 This Project covers a walkthrough on how to create a QR Code with Python with using Visual Studio Code.
